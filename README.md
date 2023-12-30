@@ -1,5 +1,4 @@
 # MrMalicious
-# FunnyNetTester
 
 ## Description
 MrMalicious is a Python-based network testing tool designed for educational purposes. It utilizes Scapy to perform various network operations such as packet crafting, sniffing, and analysis.
